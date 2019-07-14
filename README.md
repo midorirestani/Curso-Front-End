@@ -7,7 +7,8 @@ Files, projects and exercises of Udemy course: Desenvolvimento Web Completo 2019
 link: https://www.udemy.com/web-completo/
 
 Projetos finalizados: (Finished projects) 
- - Site da modelo Anna Bella (Anna Bella Website) local: /AnnaBella
+ - Site da UNES (UNES Website) local: Curso-Front-End/Projeto-UNES
+ - Site da modelo Anna Bella (Anna Bella Website) local: Curso-Front-End/Projeto-AnnaBella
 
 Arquivos de Aula: (Course files)
 - Aulas
