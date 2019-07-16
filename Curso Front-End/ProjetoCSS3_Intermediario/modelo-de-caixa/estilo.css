@@ -1,0 +1,22 @@
+.conteudo{
+    border: 1px solid red;
+    /*padding->espaçamento interno*/
+   
+    /* padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left:20px;*/ 
+    /*<=>*/
+    padding: 20px;
+
+    /*utilizando padding para diferentes tamanhos no top, right, bottom e left
+    padding: 20px 15px 10px 5px;*/
+    
+    /*padding para medidas superiores + inferiores e laterais*/
+    /* padding: 20px 10px;*/
+
+    /*margin->espaçamento externo*/
+    margin: 20px;
+    /*as mesmas regras vistas para o padding valem para margin*/
+    width: 150px;
+}

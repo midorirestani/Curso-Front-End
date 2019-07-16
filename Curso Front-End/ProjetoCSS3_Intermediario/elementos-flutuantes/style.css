@@ -1,0 +1,18 @@
+.conteudo {
+    background: lightcoral;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+}
+
+
+/*.conteudo1 {
+    background: lightseagreen;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+}*/
