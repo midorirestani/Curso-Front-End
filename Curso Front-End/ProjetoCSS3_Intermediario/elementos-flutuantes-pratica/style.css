@@ -1,0 +1,25 @@
+/*********** IDs ************/
+#principal {
+    width: 920px;
+    /*border: 1px solid pink;*/
+}
+/*********** Classes ************/
+.noticia{
+    background: #e5e5e5;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+.imagem-galeria{
+    background: lightblue;
+    width: 265px;
+    padding: 5px;
+    float: left;
+    margin: 15px;
+}

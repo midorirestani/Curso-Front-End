@@ -16,3 +16,12 @@
     float: left;
     margin: 10px;
 }*/
+
+.clear {
+    clear: left;
+}
+
+#principal {
+    border: 5px solid mediumseagreen;
+    background: lightseagreen;
+}

@@ -1,0 +1,7 @@
+.borda{
+    border: 1px solid salmon;
+    display: inline; 
+    /*podemos utilizar block e inline-block também
+    block: o elemento será colocado uma linha abaixo
+    inline-block: o elemento será colocado uma linha abaixo, se o elemento anterior estiver ocupando toda a largura da tela*/
+}
