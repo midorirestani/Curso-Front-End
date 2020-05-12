@@ -1,0 +1,7 @@
+{
+    "indenticator.inner.style": "dashed",
+    "indenticator.style": "dotted",
+    "indenticator.width": 1,
+    "indenticator.inner.hover.trimLinesShorterThan": 1,
+    "indenticator.showHover": false,
+}
